@@ -1,6 +1,6 @@
 <metadata>
-    <groupId>org.lwgl</groupId>
-    <artifactId>lwgl-freetype</artifactId>
+    <groupId>org.lwjgl</groupId>
+    <artifactId>lwjgl-jemalloc</artifactId>
     <version>3.3.3</version>
     <versioning>
         <versions>
